@@ -14,7 +14,7 @@ repository              : "Dr_jitender_kumar/your-username.github.io" # Replace 
 # Site Author Settings
 author:
   # Biographic information
-  avatar                : "profile.png" # You can add your picture to /images/ profile.png later
+  avatar                : "profile.jpg" # You can add your picture to /images/ profile.png later
   name                  : "Jitender Kumar"
   pronouns              :
   bio                   : "Computational Neuroscience Researcher"
