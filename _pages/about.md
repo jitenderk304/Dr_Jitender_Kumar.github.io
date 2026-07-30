@@ -15,13 +15,12 @@ My work focuses on developing and simulating computational models to investigate
 ## Research Highlights
 
 <div style="display: flex; gap: 20px; align-items: center; margin-bottom: 20px;">
-  <img src="/images/axon-project.jpg" width="180px" style="border-radius: 8px;">
+  <img src="{{ site.baseurl }}/images/axon-project.jpg" width="180px" style="border-radius: 8px;">
   <div>
     <h3>Axonal Ion Channel Cooperativity</h3>
     <p>Investigating non-linear membrane dynamics and action potential propagation using modified Hodgkin-Huxley models.</p>
   </div>
 </div>
-
 ## Research Focus
 
 * **Computational Neuroscience:** Modeling single-cell and network-level neural dynamics.
