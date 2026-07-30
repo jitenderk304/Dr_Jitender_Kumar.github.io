@@ -12,6 +12,15 @@ Welcome to my academic research website! I am a researcher specializing in compu
 My work focuses on developing and simulating computational models to investigate neural mechanisms, membrane potentials, and synaptic plasticity.
 
 ---
+## Research Highlights
+
+<div style="display: flex; gap: 20px; align-items: center; margin-bottom: 20px;">
+  <img src="/images/axon-project.jpg" width="180px" style="border-radius: 8px;">
+  <div>
+    <h3>Axonal Ion Channel Cooperativity</h3>
+    <p>Investigating non-linear membrane dynamics and action potential propagation using modified Hodgkin-Huxley models.</p>
+  </div>
+</div>
 
 ## Research Focus
 
