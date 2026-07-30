@@ -7,8 +7,8 @@ title                   : "Jitender Kumar / Academic Portfolio"
 title_separator         : "-"
 name                    : &name "Jitender Kumar"
 description             : &description "Jitender Kumar's Computational Neuroscience Research Portfolio"
-url                     : https://github.com/jitenderk304/Dr_Jitender_Kumar.github.io # Replace 'your-username' with your actual GitHub username
-baseurl                 : ""
+url                     : "https://jitenderk304.github.io" # Replace 'your-username' with your actual GitHub username
+baseurl                 : "/Dr_Jitender_Kumar.github.io"
 repository              : "Dr_jitender_kumar/your-username.github.io" # Replace 'your-username' with your actual GitHub username
 
 # Site Author Settings
