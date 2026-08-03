@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+title: "Peripheral Nerve Stimulation (PNS) & Axon Excitability Dynamics"
+collection: projects
+permalink: /projects/pns-project
+excerpt: "Investigating how non-linear axonal dynamics, membrane capacitance, and compartmental node structures shape single-fiber and multi-fiber nerve responses."
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+<img src="{{ site.baseurl }}/images/pns-axon-model.jpg" style="width: 100%; max-width: 650px; border-radius: 8px; margin: 15px 0;">
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+### **Biophysical Methodology**
+* **Multi-Compartment Modeling:** Simulating compartmentalized peripheral myelinated nerve models incorporating Node, MYSA, FLUT, and STIN segments.
+* **Equivalent Circuit Modeling:** Formulating dynamic electrical circuits combining ionic conductances and non-linear capacitive elements.
+* **Refractory Dynamics:** Quantifying refractory period dynamics and ionic recovery rates under external stimulation fields.
