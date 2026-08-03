@@ -44,7 +44,7 @@ Following my Ph.D. and prior to joining the University of Calgary, I expanded my
 * **Peripheral Nerve & Deep Brain Stimulation (PNS / DBS):** Investigating how axon refractory dynamics and ionic excitability shape response profiles to external electric fields.
 * **Synaptic Plasticity:** Simulating spike-timing-dependent plasticity (STDP) mechanisms and receptor kinetics in normal and pathological states (e.g., LID).
 * **Simulation Environments:** Developing custom mechanisms (NMODL) using Python, NEURON, and Spyder.
-* **Neural Stimulation & Excitability:** Investigating axonal dynamics and refractory period responses to external electric fields (e.g., spinal cord and deep brain stimulation).
+
 
 ---
 
